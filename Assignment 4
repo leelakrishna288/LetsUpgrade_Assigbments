@@ -1,4 +1,0 @@
-#2. WAP to enter a number and print 2 raised the number you entered.
-
-n=int(input("Enter a number:  "))
-print(n+2)
